@@ -1,0 +1,19 @@
+* Python 3.x Installed
+
+	https://www.python.org/downloads/
+
+* Selenium WebDriver installed
+
+	From command line: pip install -U selenium
+
+* Openpyxl module installed 
+
+	From command line: pip install openpyxl
+
+* Chrome Browser installed
+
+	https://www.google.com/chrome/
+
+* Chrome Driver downloaded
+	
+	https://chromedriver.chromium.org/downloads
